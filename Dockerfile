@@ -1,6 +1,4 @@
-/*FROM ubuntu:latest
-RUN apt-get install -y wget
-*/
+
 
 FROM python
 WORKDIR /app
